@@ -4,5 +4,12 @@ This is my home page! My name is William Barcenas and I am a student at Cal Stat
 
 ## Favorite CPSC 120L Labs
 
-* Lab 4
-  Lab 7, part 2 was one of my favorites because it was a game. I could explain how it worked to a friend we also played it with. It was just fun being able to play with something I made especially since it worked.
+* Lab 4 
+Lab 7, part 2 was one of my favorites because it was a game. I could explain how it worked to a friend we also played it with. It was just fun being able to play with something I made especially since it worked. 
+
+* Lab 6
+Lab 6, part 1 is one of my favorites because we learned how to count arguments. Making sure we had enough for what we wanted to be done. It was also fun because we were able to make sandwiches and show what i like to put in my sandwich.
+
+
+* Lab 
+
