@@ -1,18 +1,8 @@
-# William Barcenas 
+# William Barcenas’s Portfolio 
 
-# Hello World
+I am a student at CSUF and expect to graduate in 2027
 
-This is my home page! My name is Your Name and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is your_major.
+## Favorite CPSC 120L Labs
 
-## Computer Science Projects
-
-My GitHub page is http://github.com/your_username.
-
-### CPSC 120
-
-* Lab 7
-
-    Lab 7, part 2 was a favorite because I was always curious about how the
-    game Blackjack works. I was able to write functions for the first time
-    that calculate the correct value of a Blackjack hand no matter how many
-    Aces were dealt.
+* Lab 4 
+Lab 7, part 2 was one of my favorites because it was a game. I could explain how it worked to a friend we also played it with. It was just fun being able to play with something I made especially since it worked. 
